@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Git_home/Exempal/Exempl1/bin/Debug/net6.0/Exempl1
+/Users/mac/Desktop/Git_home/Exempal/Exempl1/bin/Debug/net6.0/Exempl1.deps.json
+/Users/mac/Desktop/Git_home/Exempal/Exempl1/bin/Debug/net6.0/Exempl1.runtimeconfig.json
+/Users/mac/Desktop/Git_home/Exempal/Exempl1/bin/Debug/net6.0/Exempl1.dll
+/Users/mac/Desktop/Git_home/Exempal/Exempl1/bin/Debug/net6.0/Exempl1.pdb
+/Users/mac/Desktop/Git_home/Exempal/Exempl1/obj/Debug/net6.0/Exempl1.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Git_home/Exempal/Exempl1/obj/Debug/net6.0/Exempl1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Git_home/Exempal/Exempl1/obj/Debug/net6.0/Exempl1.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Git_home/Exempal/Exempl1/obj/Debug/net6.0/Exempl1.AssemblyInfo.cs
+/Users/mac/Desktop/Git_home/Exempal/Exempl1/obj/Debug/net6.0/Exempl1.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Git_home/Exempal/Exempl1/obj/Debug/net6.0/Exempl1.dll
+/Users/mac/Desktop/Git_home/Exempal/Exempl1/obj/Debug/net6.0/refint/Exempl1.dll
+/Users/mac/Desktop/Git_home/Exempal/Exempl1/obj/Debug/net6.0/Exempl1.pdb
+/Users/mac/Desktop/Git_home/Exempal/Exempl1/obj/Debug/net6.0/Exempl1.genruntimeconfig.cache
+/Users/mac/Desktop/Git_home/Exempal/Exempl1/obj/Debug/net6.0/ref/Exempl1.dll
